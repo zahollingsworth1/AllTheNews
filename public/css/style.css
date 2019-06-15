@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+    background-color: #FF5733;
+    
+    }
+    .jumbHead {
+        background-image: url("../img/red-and-white-onions.jpg");
+        background-size: cover;
+        border-radius: 20px;
+        align-content: center;
+        border-color: #1220eecc;
+        border: 30px;
+        
+    }
+    h1{
+        background: #1220eecc;
+        font-family: 'Vast Shadow', cursive;
+        text-align: center;
+        border-radius: 10px;
+        color: aliceblue;
+    }
+    .div1{
+            /* background-color: #b2b2b2; */
+            background-color: rgba(206, 203, 203, 0.74); 
+            padding: 5px;
+            margin: 5px;
+            border-radius: 13px;   
+    }
+    .div1:hover { 
+        background-color: yellow;
+        cursor: pointer;
+      }
+    
